@@ -13,13 +13,13 @@
    * Vybaví se ti obraz mohutné řeky hluboko v údolí. Nesčetně kubíků kalné vody valících se rozvodněným korytem. Údolí pod sebou pozoruješ ze skalní vyhlídky tak vysoké, že vypadá jako miniatura z modelové železnice.
    * Smrky tak drobné, že by stačilo kýchnout, aby se zlomily. Rezavé konstrukce pro uchycení nákladních lodí jako kdyby byly upletené z pletivových drátů. Vraky aut na rozpraskaném asfaltu jako hračky, které nějaké nepozorné dítě zapomnělo uklidit.
    * Chladný vítr ti čechrá vlasy. Jsi na světě úplně {sám}, a to ti dodává zvláštní melancholický klid.
-   * „Čif čaf! Čaf!“ vytrhne tě budníček už podruhé z dřímoty. Kdyby se tě někdo zeptal, podle čeho se ten pták jmenuje, pravděpodobně bys {přišel} se solidní teorií. Hřejivé paprsky slunce se ti teď opírají i do celty.
+   * „Čif čaf! Čaf!“ vytrhne tě budníček už podruhé z dřímoty. Kdyby se tě někdo zeptal, podle čeho se ten pták jmenuje, pravděpodobně bys {přišel} s dobrou teorií. Hřejivé paprsky slunce se ti teď opírají i do celty.
 
 3. Vidíš své skromné tábořiště. Vpravo od místa, kde právě ležíš, podřimuje tvůj poloprázdný batoh. Vlevo od tebe je vyhořelé ohniště. Dostatečně blízko, aby ti večer jeho teplo zpříjemnilo usínání, ale ne tak blízko, aby ti od něj vzplanula celta a všechno oblečení příliš načichlo kouřem. V popelu ohniště, mezi drobnými zbytky ohořelých větviček, leží tvůj zčernalý ešus.
 
 ### AAB
 
-1. Vykopeš se z pod celty, a okamžitě se do tebe dá chlad. Rychle, ještě než ti začnou drkotat zuby, se nasoukáš do maskáčů a svetru. Potom boty. provlékáš tkaničky podle starého známého vzoru: levá, pravá, levá, ... pak uzel, smyčka a nakonec ještě jeden uzel.
+1. Vykopeš se z pod celty, a okamžitě se do tebe dá chlad. Rychle, ještě než ti začnou drkotat zuby, se nasoukáš do maskáčů a svetru. Potom boty. Provlékáš tkaničky podle starého známého vzoru: levá, pravá, levá, ... pak uzel, smyčka a nakonec ještě jeden uzel.
    * [if !AAA3] Vedle místa, kde jsi nocoval{}, je vyhořelé ohniště. V něm leží tvůj zčernalý ešus.
 
 >* Uklidit ohniště
@@ -47,9 +47,10 @@
    * Ležíš na boku, natažen{ý} v prachu cesty a nohy ti visí přes okraj skály. Kousek za tvými koženými botami, zhruba ve stejné výšce, vidíš zelené koruny stromů. Zurčící potůček vedle tebe je zakončený působivým vodopádem. Slunce, kterému už ve výhledu nepřekáží stromy, se líně škrábe ke svému vrcholu na jihu.
 
 >* Složit haiku [2]
->* Vstát [3]
+>* Užívat si sluneční paprsky [3]
+>* Vstát [4]
 
-2. [randomly]
+2. [random]
    * zbrklý krok, vrabec \
      se směje v březině nad \
      smrtícím srázem
@@ -58,7 +59,18 @@
      spěch do tebe rozsypal \
      čajové lístky
 
-3. 
+3. Jarní slunce se opírá do podrostu a do tvých odhalených holení visících do propasti. Stres z pominulého nebezpečí taje a v pomyslných čůrcích ti stéká z čela. Koruna břízy pod skalou na tebe líně mává svými mladými lístky.
+
+4. Posbíráš se ze země a oprášíš si z oblečení hlínu, která se oprášit nechá. Svetr by potřeboval vyprat, ale s tím raději počkáš, až bude tepleji. Nastydnout je to poslední, co bys teď chtěl{}.
+   * [goto ABD]
 
 ### ABC
+
+### ABD
+1. Přidržuje{} se za kmínek mladého stromu, nahlédneš přes okraj srázu. Cestička dole pokračuje, jako by se nechumelilo.
+
+>* Rozhlédnout se po lepší cestě [2]
+>* Prolédnout sestup [3]
+>* [if ABD2 & ABD3] To nedává smysl! [4]
+>* Pustit se do sestupu [goto ABE]
 
