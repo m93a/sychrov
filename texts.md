@@ -70,7 +70,29 @@
 1. Přidržuje{} se za kmínek mladého stromu, nahlédneš přes okraj srázu. Cestička dole pokračuje, jako by se nechumelilo.
 
 >* Rozhlédnout se po lepší cestě [2]
->* Prolédnout sestup [3]
+>* Prolédnout skálu [3]
 >* [if ABD2 & ABD3] To nedává smysl! [4]
 >* Pustit se do sestupu [goto ABE]
 
+2. Vpravo od tebe se rozprostírá neprostupný lesík mladých habrů a lísek. Navzájem hustě propletené, zápasí o světlo – tenhle se natahuje vysoko k nebi, tahle se zase naklání daleko nad propast, jen aby měly o trochu víc slunce než jejich sousedi.
+   * Po tvé levé straně rozvážně stojí staré vysoké buky. Už se nikam nederou a svým sousedům nechávají notný osobní prostor. V listí mezi nimi se prohrabuje dvojice kosů.
+   * Ani na jedné straně se nezdá, že by sráz slevil ze své výšky ani strmosti. Naopak, potok za dlouhé věky zvládl do tvrdého podloží vyrýt alespoň mělké údolí; mimo něj působí skála ještě hůře sestupná.
+
+
+### ABE
+
+1. S nevyhnutelností, kterou se marně snažíš reinterpretovat jako odhodlání, se postavíš na kraj skály. Tak tedy... dolů... Ale jak?
+
+>* Nejprv se posadit na okraj skály, čelem ke srázu, najít nohama stabilní výběžky. [2]
+>* Otočit se zády ke srázu, snížit se do podřepu, opřít se rukama o zemi před sebou a jednu nohu spustit přes okraj. [4]
+>* Lehnout si na břicho, vystrčit hlavu přes okraj, a rukama hledat chyty. [3]
+
+3. Už když si leháš, je ti jasné, že tudy cesta nepovede. Ačkoliv by to bylo nesmírně obdivuhodné, hlavou dolů ze skály neslezeš. Možná neslezeš ani _nohama dolů_.
+   * Možná spadneš jako balvan, a to bude konec tvého putování – zbytek své existence strávíš právě tam, kam dopadneš. Mezi ostatními balvany na věky věků, o nic víc vědom{ý} než oni, dokud vás eroze společně nerozloží.
+   * Leží se ti hezky, pod tebou hlubina, ruce ti visí dolů. Až ti v nich trochu brní z nahromaděné krve.
+   * Jak krásné je odkládat nevyhnutelné. Najít se v prostoru mezi. Život tě pořád dostává do nějakých _situací_ a čeká, že se s nimi nějak _vypořádáš_. Ale proč? Hned jak se vypořádáš s touhle situací, určitě nastane nějaká další, neméně zapeklitá.
+   * Ne ne, tvoje místo je _mezi_.
+   * Zhruba v úrovni tvé hlavy se na špičce břízy třepetají lístky. Následuješ pohledem její kmen do hloubky, z které se k tobě natahuje. Z té výšky se ti motá hlava. Ne nepříjemně, protože víš, že ti teď nic nehrozí. Je to spíš jako kdybys příliš rychle vypil{} sklenici vína, takový vesele šimravý pocit.
+   * Kolem paty břízy vidíš několik malých fialových flíčků, asi květy fialek, a nedaleko od nich větší oranžovo-hnědý deštník, pravděpodobně uschlý smrček.
+   * Snažíš se zaostřit na detaily, ale nedaří se ti to – jako by se pár metrů nad zemí vznášela mlha, která všechno pod sebou rozmazává. Možná jsi vážně opil{ý} z hloubky.
+   * Pít hned takhle po ránu by se nemělo. Postavíš se zpátky na nohy.
