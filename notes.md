@@ -57,14 +57,35 @@
 
 
 
-
-
-# Haiku
-* 5-7-5
-* veselá skála
-
+* haiku
+  * 5-7-5
+  * veselá skála
 
 
 
+* mrzutá skála
+  * žádné jídlo
+    * lov?
+    * farmaření?
+    * scavenging
+      * na druhé straně řeky jsou opuštěné vesnice
+  * čeho vlastně čekáš, že dosáhneš?
+    * vrátit věci zpátky
+      * víš, že to nejde
+    * žít v přítomnosti, přijímat věci tak, jak přicházejí
+      * tomu věříš, když je dobře
+      * když je špatně, nevidíš smysl
+    * ničeho
 
+
+
+
+* podivnosti
+  * prach/sopečný popel/radioaktivní/chemický
+    * zakryje slunce, postupně klesá
+    * pach ozonu, chlad
+    * respirátor
+    * "pošmour", "šmour", "zákal", "záhal", "střížaha"
+
+    * jako by někdo bílou barvou zamaloval kus krajiny
 
